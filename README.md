@@ -7,12 +7,12 @@ Criador de Ransomware básico
 
 **🇧🇷 Português**
 
-## 📝 Descrição:
+## 📝 Descrição
 
 Este projeto é um estudo e demonstra como criar um **ransomware básico** para entender a funcionalidade e os **princípios de criptografia**. Este repositório é destinado exclusivamente para fins educacionais.
 
 
-## ❓ O que foi feito:
+## ❓ O que foi feito
 
 Criação de um ransomware básico utilizando **Python**.
 Implementação de uma funcionalidade para criptografar arquivos no diretório de destino. Adição de um mecanismo para gerar uma "chave de descriptografia". Testes com diretórios de exemplo para validar a eficácia do código.
@@ -56,7 +56,7 @@ Processo:
 - *teste.txt* (texto descriptografado)
 - *teste.txt.ransomware* (texto criptografado)
 
-## 🖥 Como usar:
+## 🖥 Como usar
 
 Clone este repositório:
 ```bash
@@ -79,12 +79,12 @@ python decrypter.py
 
 **🇺🇸 English**
 
-## 📝 Description:
+## 📝 Description
 
 This project is a study that demonstrates how to create a basic ransomware to understand its functionality and the principles of encryption. This repository is intended exclusively for educational purposes.
 
 
-## ❓ What was done:
+## ❓ What was done
 
 Development of a basic ransomware using **Python**. Implementation of functionality to encrypt files in the target directory. Addition of a mechanism to generate a "decryption key." Testing with example directories to validate the code's effectiveness.
 
@@ -127,7 +127,7 @@ Process:
 - *teste.txt* (decrypted text)
 - *teste.txt.ransomware* (encrypted text)
 
-## 🖥 How to use:
+## 🖥 How to use
 
 Clone this repository:
 ```bash
